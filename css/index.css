@@ -18,6 +18,9 @@ h1,h2,h3,h4,h5,h6{font-size:16px;font-weight:100;}
 	margin:50px auto;
 	position:relative;
 }
+.container ul li{
+	position: absolute;
+}
 .container ul li a{
 	display: block;
 }
@@ -59,7 +62,6 @@ ol li{
 	-webkit-border-radius:4px;
 	-moz-border-radius: 4px;
 	margin-right:7px;
-	
 }
 span{
 	width:30px;
